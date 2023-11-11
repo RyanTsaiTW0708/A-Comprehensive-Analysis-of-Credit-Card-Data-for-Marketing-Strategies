@@ -19,8 +19,9 @@ The next section involves the calculation and analysis of dynamic and static cus
 3. Segmentation:
 Following the value analysis, the report delves into segmentation, covering both product and customer segmentation. Utilizing customer purchase data as a basis, the report employs market basket analysis to identify optimal shopping basket combinations for customer recommendations. Additionally, cluster analysis is applied to categorize customers based on individual characteristics. This approach enables the company to implement the most accurate marketing strategies.
 
-4.Conclusion:
+4. Conclusion:
 The final section of the report will summarize key findings and insights derived from the analysis, emphasizing actionable marketing strategies tailored to different customer segments.
+
 
 The full report is in the attached pdf file.
 
