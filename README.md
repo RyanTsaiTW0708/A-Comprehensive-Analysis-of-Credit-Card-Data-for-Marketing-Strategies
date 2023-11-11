@@ -1,6 +1,7 @@
 # A-Comprehensive-Analysis-of-Credit-Card-Data-for-Marketing-Strategies
 
 Preface:
+
 This report utilizes the credit card company's customer database to calculate the dynamic and static values of customers based on their purchasing behavior. 
 By combining customer characteristics and consumption patterns, segmentation and analysis are conducted. 
 By doing so, the company can save a considerable amount of unnecessary marketing costs and, more importantly, observe changes in customer behavior over the long term to retain customers. 
